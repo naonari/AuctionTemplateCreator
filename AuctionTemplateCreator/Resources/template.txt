@@ -1,0 +1,60 @@
+<center>
+ <b>{%title%}</b>
+ <br>
+ <br>
+ <table width=640 cellspacing=0 cellpadding=2>
+   <tr>
+     <td bgcolor=#ffe566 align=center width=30%>
+       <font size=-1 color=#000000><b>è§ïiê‡ñæ</b></font>
+     </td>
+     <td width=70%>
+       &nbsp
+     </td>
+   </tr>
+   <tr>
+     <td colspan=7 bgcolor=#ffe566 align=center>
+       <table bgcolor=#ffffff width=100% cellpadding=5>
+         <td align=left>{%description%}</td>
+       </table>
+     </td>
+   </tr>
+  </table>
+ <br>
+ <br>
+ <table width=640 cellspacing=0 cellpadding=2>
+   <tr>
+     <td bgcolor=#ffe566 align=center width=30%>
+       <font size=-1 color=#000000><b>íçà”éñçÄ</b></font>
+     </td>
+     <td width=70%>
+       &nbsp
+     </td>
+   </tr>
+   <tr>
+     <td colspan=7 bgcolor=#ffe566 align=center>
+       <table bgcolor=#ffffff width=100% cellpadding=5>
+         <td align=left>{%caution%}</td>
+       </table>
+     </td>
+   </tr>
+  </table>
+ <br>
+ <br>
+ <table width=640 cellspacing=0 cellpadding=2>
+   <tr>
+     <td bgcolor=#ffe566 align=center width=30%>
+       <font size=-1 color=#000000><b>î≠ëóï˚ñ@</b></font>
+     </td>
+     <td width=70%>
+       &nbsp
+     </td>
+   </tr>
+   <tr>
+     <td colspan=7 bgcolor=#ffe566 align=center>
+       <table bgcolor=#ffffff width=100% cellpadding=5>
+         <td align=left>{%send%}</td>
+       </table>
+     </td>
+   </tr>
+  </table>
+</center>
